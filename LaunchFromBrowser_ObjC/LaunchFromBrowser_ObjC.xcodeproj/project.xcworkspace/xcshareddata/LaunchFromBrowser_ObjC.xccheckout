@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>197C49BB-913C-4549-8EBD-9A2B614608C8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F85C6E78F2A6477F1031B20EB37E5598074B4979</key>
+		<string>https://github.com/shafiullakhan/LaunchFromBrowser.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LaunchFromBrowser_ObjC/LaunchFromBrowser_ObjC.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F85C6E78F2A6477F1031B20EB37E5598074B4979</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shafiullakhan/LaunchFromBrowser.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F85C6E78F2A6477F1031B20EB37E5598074B4979</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F85C6E78F2A6477F1031B20EB37E5598074B4979</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LaunchFromBrowser</string>
+		</dict>
+	</array>
+</dict>
+</plist>
